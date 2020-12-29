@@ -46,3 +46,8 @@ textarea {
 textarea:disabled {
   background-color: #a5a2a2;
 }
+
+.display-in-row {
+  display: flex;
+  flex-direction: row;
+}
